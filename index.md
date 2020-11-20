@@ -1,3 +1,3 @@
-## Testing GitHub Pages
+# Lynn Dong
 
-better than nothing for now
+chronically cringing (at myself)
