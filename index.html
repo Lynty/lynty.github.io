@@ -9,8 +9,10 @@ title: Home
     <meta charset="utf-8">
     <title>Home</title>
   </head>
+  <h2>✍️  Latest Post</h2>
   <body>
-This is the homepage.
-<img src="/assets/images/bread.jpeg" alt="bread">
+    <h2>{{ site.posts.last.title }}</h2>
+    <p><b>{{ site.posts.last.date | date_to_string }}</b></p>
+    {{ site.posts.last.content }}
   </body>
 </html>

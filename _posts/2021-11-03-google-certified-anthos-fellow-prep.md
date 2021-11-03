@@ -4,7 +4,9 @@ author: lynn
 tags: kubernetes anthos multicloud certification
 ---
 
-```ruby
+stress!
+
+```python
 def bubble_sort(list)
   return list if list.size <= 1 # already sorted
   swapped = true
@@ -20,3 +22,5 @@ def bubble_sort(list)
   list
 end
 ```
+
+<img src="/assets/images/bread.jpeg" alt="bread">
