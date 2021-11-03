@@ -1,3 +1,3 @@
 # Lynn Dong
 
-chronically cringing (at myself)
+re-launch 11/3/21
