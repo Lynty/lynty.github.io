@@ -1,0 +1,11 @@
+<nav>
+  <a href="/" {% if page.url == "/" %}style="color: purple;"{% endif %}>
+    Home
+  </a><br>
+  <a href="/posts.html" {% if page.url == "/posts.html" %}style="color: purple;"{% endif %}>
+    Posts
+  </a><br>
+  <a href="/about.html" {% if page.url == "/about.html" %}style="color: purple;"{% endif %}>
+    About
+  </a><br>
+</nav>

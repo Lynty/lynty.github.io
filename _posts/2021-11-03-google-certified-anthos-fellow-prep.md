@@ -1,125 +1,22 @@
 ---
 layout: post
-title: "Google Certified Anthos Fellow Prep"
-date: 2021-11-03 09:43:00 -0000
-categories: GCP ANTHOS
+author: lynn
+tags: kubernetes anthos multicloud certification
 ---
 
-# content
-
-```
-apiVersion: networking.istio.io/v1alpha3
-kind: VirtualService
-metadata:
-  name: productpage
-spec:
-  hosts:
-  - productpage
-  http:
-  - route:
-    - destination:
-        host: productpage
-        subset: v1
----
-apiVersion: networking.istio.io/v1alpha3
-kind: VirtualService
-metadata:
-  name: reviews
-spec:
-  hosts:
-  - reviews
-  http:
-  - route:
-    - destination:
-        host: reviews
-        subset: v1
----
-apiVersion: networking.istio.io/v1alpha3
-kind: VirtualService
-metadata:
-  name: ratings
-spec:
-  hosts:
-  - ratings
-  http:
-  - route:
-    - destination:
-        host: ratings
-        subset: v1
----
-apiVersion: networking.istio.io/v1alpha3
-kind: VirtualService
-metadata:
-  name: details
-spec:
-  hosts:
-  - details
-  http:
-  - route:
-    - destination:
-        host: details
-        subset: v1
----
-apiVersion: networking.istio.io/v1alpha3
-kind: DestinationRule
-metadata:
-  name: productpage
-spec:
-  host: productpage
-  subsets:
-  - name: v1
-    labels:
-      version: v1
----
-apiVersion: networking.istio.io/v1alpha3
-kind: DestinationRule
-metadata:
-  name: reviews
-spec:
-  host: reviews
-  subsets:
-  - name: v1
-    labels:
-      version: v1
-  - name: v2
-    labels:
-      version: v2
-  - name: v3
-    labels:
-      version: v3
----
-apiVersion: networking.istio.io/v1alpha3
-kind: DestinationRule
-metadata:
-  name: ratings
-spec:
-  host: ratings
-  subsets:
-  - name: v1
-    labels:
-      version: v1
-  - name: v2
-    labels:
-      version: v2
-  - name: v2-mysql
-    labels:
-      version: v2-mysql
-  - name: v2-mysql-vm
-    labels:
-      version: v2-mysql-vm
----
-apiVersion: networking.istio.io/v1alpha3
-kind: DestinationRule
-metadata:
-  name: details
-spec:
-  host: details
-  subsets:
-  - name: v1
-    labels:
-      version: v1
-  - name: v2
-    labels:
-      version: v2
----
+```ruby
+def bubble_sort(list)
+  return list if list.size <= 1 # already sorted
+  swapped = true
+  while swapped do
+    swapped = false
+    0.upto(list.size-2) do |i|
+      if list[i] > list[i+1]
+        list[i], list[i+1] = list[i+1], list[i] # swap values
+        swapped = true
+      end
+    end
+  end
+  list
+end
 ```

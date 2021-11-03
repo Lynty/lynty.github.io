@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p><b>{{ page.date | date_to_string }}</b></p>
+
+{{ content }}
+
+<b>tags</b><br>
+{% for tag in page.tags %}
+  {{ tag }}<br>
+{% endfor %}
