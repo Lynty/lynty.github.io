@@ -26,17 +26,22 @@
 
         <p class="pre">
           ☁️  sr. cloud infrastructure engineer<br>
-          🏂 snowboarding enthusiast<br>
+          🏂 snowboarder<br>
           🍞 carb addict<br>
           🏘 amateur real estate investor<br>
           💃🏻 dancer<br>
           ✈️  traveler<br>
           📖 learner<br>
           👾 ex-gamer with semi-annual relapses<br>
+          😶 introvert<br>
           ☕️ fueled by caffeine<br>
-        </p>
+        </p><br>
 
+        <a href="https://linkedin.com/in/lynndong" target="_blank"><img src="/assets/images/linkedin.png" alt="linkedin" style="width:32px;height:32px;"></a>
+        <a href="https://github.com/Lynty" target="_blank"><img src="/assets/images/github.png" alt="github" style="width:32px;height:32px;"></a>
+        <a href="https://twitter.com/lynnux_io" target="_blank"><img src="/assets/images/twitter.png" alt="twitter" style="width:32px;height:32px;"></a>
 
+        {% comment %}
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
         {% endif %}
@@ -48,6 +53,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+        {% endcomment %}
 
       </header>
       <section>
@@ -56,10 +62,12 @@
 
       </section>
       <footer>
+        {% comment %}
         {% if site.github.is_project_page %}
         This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
+        {% endcomment %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

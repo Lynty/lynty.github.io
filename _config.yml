@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: lynnux
+logo: /assets/images/favicon.png
 collections:
   month:
