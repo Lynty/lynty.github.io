@@ -7,7 +7,6 @@
 
 # to do
 
-1. favicon
 1. categorize posts by tags and link
 1. git-lfs
 
