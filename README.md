@@ -9,8 +9,8 @@
 
 1. favicon
 1. categorize posts by tags and link
-1. work journal
 1. social media
+1. git-lfs
 
 # post topics
 1. blockchain
@@ -22,3 +22,4 @@
 1. dev workflows
 1. productivity
 1. go
+1. setting up website
