@@ -11,8 +11,8 @@ title: Home
   </head>
   <h2>✍️  Latest Post</h2>
   <body>
-    <h1>{{ site.posts.last.title }}</h1>
-    <p><b>{{ site.posts.last.date | date_to_string }}</b></p>
-    {{ site.posts.last.content }}
+    <h1>{{ site.posts.first.title }}</h1>
+    <p><b>{{ site.posts.first.date | date_to_string }}</b></p>
+    {{ site.posts.first.content }}
   </body>
 </html>
