@@ -4,7 +4,8 @@ author: lynn
 tags: journal 
 ---
 
-I spent this morning's [deep work](https://www.calnewport.com/books/deep-work/) session <INSERT>. Here are the <NUM>  main things I learned:
+I spent this morning's <a href="https://www.calnewport.com/books/deep-work/" target="_blank">deep work</a>
+ session studying more on blockchain technology. I learned **so** many things:
 
 **1. **
 - 
