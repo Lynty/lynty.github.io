@@ -19,6 +19,6 @@ I had my Google panel interview on October 19th and won't get results back until
 - technical
     - I over prepared for this by creating both a presentation deck and a 19 page technical design document (TDD). Despite all the time I put into architecting a solution and ensuring there weren't any holes in my design; I still don't feel super confident, but when do I ever feel that way?
 
-There's a lot more to post on this topic but I'm currently still of the mindset glad-its-over-with-lets-not-think-about-it-until-later-when-results-come-back 😂 .
+There's a lot more to post on this topic but I'm currently still of the mindset glad-its-over-with-lets-not-think-about-it-until-later-when-results-come-back 😂
 
 **To be continued!**
