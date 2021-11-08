@@ -2,6 +2,8 @@
 
 1. clone repo
 1. `cd lynty.github.io/`
+1. `sudo gem install bundler:2.2.30`
+1. `bundle config set --local path 'vendor/bundle'`
 1. `bundle install`
 1. `bundle exec jekyll serve`
 
