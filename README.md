@@ -10,6 +10,7 @@
 # to do
 
 1. categorize posts by tags and link
+1. navigate between posts (next/last)
 1. git-lfs
 1. about me page
 
