@@ -514,6 +514,7 @@ class Navbar extends Component {
 }
 export default Navbar;
 ```
+
 - Create scaffolding for the marketplace UI by creating a main file
 - `src/components/Main.js` should look like the following:
 
@@ -598,7 +599,6 @@ class Main extends Component {
 
 export default Main;
 ```
-
 
 ---
 
