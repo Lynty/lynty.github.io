@@ -13,6 +13,7 @@
 1. navigate between posts (next/last)
 1. git-lfs
 1. about me page
+1. add some javascript
 
 # post topics
 1. blockchain

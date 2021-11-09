@@ -1,3 +1,6 @@
+*.png
+*.jpeg
+*.ico
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.png !text !filter !merge !diff
