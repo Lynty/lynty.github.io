@@ -631,3 +631,11 @@ export default Main;
 <center><img src="/assets/images/insufficient_funds.png" style="width:40%">
 <figcaption>metamask notification after buyer attempts to purchase a product that costs more than the funds available</figcaption></center>
 </figure>
+
+---
+
+&nbsp;
+
+## Part 5: Final Thoughts
+
+The greatest takeaway of walking through this lab was getting hands-on experience with tools like Ganache, Truffle, and the Metamask chrome extension. I can't say I'm any better of a developer by going through this tutorial. It was a lot of copy and pasting but this is only the beginning! The last time I touched object oriented programming was in college where I struggled in both C++ and Java and I didn't think I would ever intentionally come back to it. But I must say it was fun to work with Solidity and Javascript! Through this exercise, I learned more about smart contracts, the async/await pattern, and have a much better understanding of how decentralized apps are built and deployed 👍. Now that I've followed a step-by-step tutorial of creating a decentralized application on a personal blockchain, I plan on following another tutorial that will walk me through running my own Ethereum node or configuring a <a href="https://docs.chain.link/docs/running-a-chainlink-node/" target="_blank">Chainlink</a> node.
