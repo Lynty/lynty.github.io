@@ -15,6 +15,8 @@ tags: journal
 
 <figure><center><img src="/assets/images/" style="width:100%">
 <figcaption></figcaption></center></figure><br>
+
+[another post]({% post_url 2021-11-03-journal %}))
 -->
 
 ## TIL
