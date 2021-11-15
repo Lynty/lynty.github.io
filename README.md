@@ -14,6 +14,8 @@
 
 # post topics
 1. blockchain
+    - different consensus mechanisms
+    - upgrading smart contracts
 1. anthos
 1. kubernetes
 1. proof of concepts
@@ -23,3 +25,4 @@
 1. productivity
 1. go
 1. setting up website
+1. speeding up terraform, ansible, and pipeline execution

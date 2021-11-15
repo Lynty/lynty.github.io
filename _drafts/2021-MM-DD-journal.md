@@ -23,9 +23,6 @@ tags: journal
 I spent this morning's <a href="https://www.calnewport.com/books/deep-work/" target="_blank">deep work</a>
  session studying <!--TOPIC-->
 
-**1. **
--
-
 ---
 
 ## General
