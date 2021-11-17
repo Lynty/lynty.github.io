@@ -73,6 +73,22 @@ blockquote {
   font-style:italic;
 }
 
+code {
+  font-family: monospace;
+  font-size: inherit;
+}
+
+p > code,
+li > code,
+dd > code,
+td > code {
+  background: #ececec;
+  color: black;
+  word-wrap: break-word;
+  padding: .1rem .3rem .2rem;
+  border-radius: .2rem;
+}
+
 pre {
   font-family:Monaco, Raleway, Bitstream Vera Sans Mono, Roboto, sans-serif, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   padding:8px 15px;
