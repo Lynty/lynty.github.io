@@ -62,7 +62,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1200px;
+  width:1100px;
   margin:0 auto;
 }
 
@@ -73,7 +73,7 @@ blockquote {
   font-style:italic;
 }
 
-code {
+code { // https://css-tricks.com/styling-code-in-and-out-of-blocks/
   font-family: monospace;
   font-size: inherit;
 }
@@ -209,7 +209,7 @@ strong {
 }
 
 section {
-  width:900px;
+  width:800px;
   float:right;
   padding-bottom:50px;
 }
