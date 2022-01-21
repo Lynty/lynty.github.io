@@ -5,7 +5,7 @@
 1. `sudo gem install bundler:2.2.30`
 1. `bundle config set --local path 'vendor/bundle'`
 1. `bundle install`
-1. `bundle exec jekyll serve`
+1. `bundle exec jekyll serve` or `rm .jekyll-metadata && rm -rf _site && bundle exec jekyll serve --incremental -o -l`
 
 # to do
 
@@ -26,3 +26,8 @@
 1. go
 1. setting up website
 1. speeding up terraform, ansible, and pipeline execution
+
+# pre-publish checklist
+- [ ] check links
+- [ ] final readthrough
+- [ ] add tags
