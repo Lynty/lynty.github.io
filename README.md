@@ -26,6 +26,13 @@
 1. go
 1. setting up website
 1. speeding up terraform, ansible, and pipeline execution
+1. office construction
+1. cloud run for anthos
+1. takeaways from leading a project
+  1. open pair programming room
+  1. delegation
+  1. architecture diagrams
+  1. TDD vs slide deck
 
 # pre-publish checklist
 - [ ] check links
