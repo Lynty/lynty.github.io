@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lynn
-tags: kubernetes anthos multicloud certification hybridcloud google gcp
+tags: kubernetes anthos certification
 ---
 
 <center><img src="/assets/images/anthos.jpeg" alt="anthos" width="100" height="100"></center><br>

@@ -9,7 +9,6 @@
 
 # to do
 
-1. categorize posts by tags and link
 1. add some javascript
 
 # post topics
@@ -37,6 +36,7 @@
 1. docker-compose
 1. dotfiles overview
 1. career change
+1. google diaries
 
 # pre-publish checklist
 - [ ] check links

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lynn
-tags: dapp blockchain poc ganache truffle javascript metamask
+tags: blockchain poc javascript 
 ---
 
 * T0C

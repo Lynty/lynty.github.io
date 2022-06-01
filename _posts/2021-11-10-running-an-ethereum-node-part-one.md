@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lynn
-tags: ethereum blockchain geth node mining
+tags: blockchain 
 ---
 
 * T0C

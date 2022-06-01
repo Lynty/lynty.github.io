@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lynn
-tags: gcloud authentication authorization make
+tags: tips
 ---
 
 * T0C

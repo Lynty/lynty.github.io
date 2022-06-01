@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lynn
-tags: real_estate renovation office
+tags: office
 ---
 
 <!--
